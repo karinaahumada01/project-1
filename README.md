@@ -54,10 +54,10 @@
 
 #### Chen, M. (2022). Attempts about finding aspects that can influence the effects of Music Therapy — UC Irvine Math 10, Fall 2022. Github.io. https://christopherdavisuci.github.io/UCI-Math-10-F22/Proj/StudentProjects/MingyuChen.html
 
+#### * This resource was referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
 #### Su, Y. (2023, April). Music and Mental Health EDA. Kaggle.com; Kaggle. https://www.kaggle.com/code/yannansu/music-and-mental-health-eda
 
-#### * This resource was referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
-
+#### * This resource was also referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
 #### Shetty, R. (2023, October 4). Impact of Music on Mental Health. Kaggle.com; Kaggle. https://www.kaggle.com/code/richa2390/impact-of-music-on-mental-health
 
 #### Safarzadeh, L. (2022). GitHub - lalesafarzade/Best_seller_books: Collecting data from NYT and rainforest API, analyzing and making a simple app. GitHub. https://github.com/lalesafarzade/Best_seller_books
