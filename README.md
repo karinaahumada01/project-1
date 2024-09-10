@@ -21,7 +21,7 @@
   ###    4. What is the average hourly intake of music per day for participants who saw an improvement in mental health?
   ###    5. Does the combination of music genre and daily listening duration have a significant impact on the likelihood of reported mental health improvement?
 
-#### Each question will be answered with 2 different graphs that best visualize the data pertaining to the questions' goal. 
+### Each question will be answered with 2 different graphs that best visualize the data pertaining to the questions' goal. 
 #### - Question 1: Pie Chart and Linear Regression Plot
 #### - Question 2: Grouped Bar and Pie Chart
 #### - Question 3: Scatter Plot and Clustered Bar Chart
