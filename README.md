@@ -1,6 +1,6 @@
 # project-1 README
 
-### Important Links:
+### Important Project Links:
 #### Google Slide Presentation 
 [presentation](https://docs.google.com/presentation/d/1pzw6JLSIBj5k8ye3xF5oIUdy71K3VHiDtYc8nEB6a_E/edit?usp=sharing)
 #### Written Analysis & Conclusion
@@ -20,7 +20,7 @@
 
 ### - This repository contains analysis of a kaggle dataset that looks at the effects of music on mental health issues. The dataset contains various rows and columns that displays data on around 745 participants, but due to null values, only 616 participant's data is used. The data which this repo analyzed includes: age of participants, hours per day listened to music, favorite genres, mental health issues (anxiety, depression OCD, & insomnia), and music effects, rated with 'improve', 'no effect', or 'worsen'. 
 
-### This project focuses on analyzing the Music & Mental Health Survey Results dataset by asking and answer the following questions: 
+### This project focuses on analyzing the Music & Mental Health Survey Results dataset by asking and answering the following questions: 
 
   ####    1. Is there a relationship between age and the reported improvement in mental health from listening to music?
   ####    2. How do the top 5 favorite music genres influence the mental health of the participants?
@@ -38,7 +38,7 @@
 
 ## Features
 
- ### Features include: 'Resources' folder and 'mxmh_main_analysis.ipynb' file
+ ### Includes: 'Resources' folder and 'mxmh_main_analysis.ipynb' file
  #### -- Resources: contains 'mxmh_survey_results.csv' file which is the dataset the main analysis file is done on, and also 10 different png files of screenshots of the graphs from the main analysis file.
  #### -- mxmh_main_analysis.ipynb: is the main analysis file that contains code analysis, generated graphs, and detailed explanations for each of the graphs.
 
