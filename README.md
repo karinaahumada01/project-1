@@ -32,13 +32,13 @@
 
 
 
-## Important Links!
+# Important Links!
 ### Google Slide Presentation 
 [presentation](https://docs.google.com/presentation/d/1pzw6JLSIBj5k8ye3xF5oIUdy71K3VHiDtYc8nEB6a_E/edit?usp=sharing)
 ### Analysis & Conclusion
 [Anaylsis and Conclusion](https://docs.google.com/document/d/13ySdNbCijZ7swYCkeas8N4DKUjC9O3SeS8nrxR03eFY/edit?usp=sharing)
 
-### References
+## References
 Rasgaitis, C. (2022, November 21). Music & mental health survey results. Www.kaggle.com.   https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results?resource=download
 
 Chen, M. (2022). Attempts about finding aspects that can influence the effects of Music Therapy — UC Irvine Math 10, Fall 2022. Github.io. https://christopherdavisuci.github.io/UCI-Math-10-F22/Proj/StudentProjects/MingyuChen.html
