@@ -50,22 +50,28 @@
 
 ## References
 
-#### Rasgaitis, C. (2022, November 21). Music & mental health survey results. Www.kaggle.com.   https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results?resource=download
 
 #### Chen, M. (2022). Attempts about finding aspects that can influence the effects of Music Therapy — UC Irvine Math 10, Fall 2022. Github.io. https://christopherdavisuci.github.io/UCI-Math-10-F22/Proj/StudentProjects/MingyuChen.html
 
-#### * This resource was referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
-#### Su, Y. (2023, April). Music and Mental Health EDA. Kaggle.com; Kaggle. https://www.kaggle.com/code/yannansu/music-and-mental-health-eda
-
-#### * This resource was also referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
-#### Shetty, R. (2023, October 4). Impact of Music on Mental Health. Kaggle.com; Kaggle. https://www.kaggle.com/code/richa2390/impact-of-music-on-mental-health
-
-#### Safarzadeh, L. (2022). GitHub - lalesafarzade/Best_seller_books: Collecting data from NYT and rainforest API, analyzing and making a simple app. GitHub. https://github.com/lalesafarzade/Best_seller_books
-
-#### Kubicek, L. (2022, July 25). Can music improve our health and quality of life? Harvard Health; Harvard Health Publishing. https://www.health.harvard.edu/blog/can-music-improve-our-health-and-quality-of-life-202207252786
+#### Cherry, K. (2019, December 10). How listening to music can have psychological benefits. Verywell Mind; Verywell Mind. https://www.verywellmind.com/surprising-psychological-benefits-of-music-4126866
 
 #### Frost, A. (2024, January 5). How Music Can Improve Your Mental Health. The Jed Foundation; The Jed Foundation. https://jedfoundation.org/resource/how-music-can-improve-your-mental-health/
 
-#### Cherry, K. (2019, December 10). How listening to music can have psychological benefits. Verywell Mind; Verywell Mind. https://www.verywellmind.com/surprising-psychological-benefits-of-music-4126866
+#### Kubicek, L. (2022, July 25). Can music improve our health and quality of life? Harvard Health; Harvard Health Publishing. https://www.health.harvard.edu/blog/can-music-improve-our-health-and-quality-of-life-202207252786
 
 #### Millis, M. (2015, October 18). Scientists Find 15 Amazing Benefits Of Listening To Music. Lifehack; Lifehack. https://www.lifehack.org/317747/scientists-find-15-amazing-benefits-listening-music
+
+#### ChatGPT was referenced for almost all troubleshooting errors and code revision help and explanations
+#### OpenAI. (2024, September). ChatGPT (Sep 14 version) [Large language model]. https://chat.openai.com/chat
+
+#### Rasgaitis, C. (2022, November 21). Music & mental health survey results. Www.kaggle.com.   https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results?resource=download
+
+#### Safarzadeh, L. (2022). GitHub - lalesafarzade/Best_seller_books: Collecting data from NYT and rainforest API, analyzing and making a simple app. GitHub. https://github.com/lalesafarzade/Best_seller_books
+
+#### * This resource was referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
+#### Shetty, R. (2023, October 4). Impact of Music on Mental Health. Kaggle.com; Kaggle. https://www.kaggle.com/code/richa2390/impact-of-music-on-mental-health
+
+#### * This resource was also referenced to get an idea for the first few lines of code and how to import the dataset properly and clean up the dataset 
+#### Su, Y. (2023, April). Music and Mental Health EDA. Kaggle.com; Kaggle. https://www.kaggle.com/code/yannansu/music-and-mental-health-e
+
+
