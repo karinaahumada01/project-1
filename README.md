@@ -38,7 +38,6 @@
 
 ## Features
 
-- List the key features of your project.
 
 
 
