@@ -30,14 +30,17 @@
 
 ### Each question will be answered with 2 different graphs that best visualize the data pertaining to the questions' goal. 
 
-#### - Question 1: Pie Chart and Linear Regression Plot
-#### - Question 2: Grouped Bar and Pie Chart
-#### - Question 3: Scatter Plot and Clustered Bar Chart
-#### - Question 4: Box Plot and Histogram
-#### - Question 5: Bar Plot and Scatter Plot
+#### -- Question 1: Pie Chart and Linear Regression Plot
+#### -- Question 2: Grouped Bar and Pie Chart
+#### -- Question 3: Scatter Plot and Clustered Bar Chart
+#### -- Question 4: Box Plot and Histogram
+#### -- Question 5: Bar Plot and Scatter Plot
 
 ## Features
 
+ ### Features include: 'Resources' folder and 'mxmh_main_analysis.ipynb' file
+ #### -- Resources: contains 'mxmh_survey_results.csv' file which is the dataset the main analysis file is done on, and also 10 different png files of screenshots of the graphs from the main analysis file.
+ #### -- mxmh_main_analysis.ipynb: is the main analysis file that contains code analysis, generated graphs, and detailed explanations for each of the graphs.
 
 
 
