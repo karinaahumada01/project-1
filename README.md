@@ -1,4 +1,4 @@
-# Project 1: Music & Mental Health Analysis
+# Project 1: The Effect of Music on  Mental Health 
 
 ## Table of Contents
 1. [Important Project Links](#important_project_links)
