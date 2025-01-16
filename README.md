@@ -1,24 +1,30 @@
-# project-1 README
+# Project 1: Music & Mental Health Analysis
 
-### Important Project Links:
+## Table of Contents
+1. [Important Project Links](#important_project_links)
+2. [Project Purpose](#project_purpose)
+3. [Introduction](#introduction)
+4. [Research Questions](#research_questions)
+5. [Features](#features)
+6. [Contributers](#contributers)
+7. [References](#references)
+
+## Important Project Links:
 #### Google Slide Presentation 
 [presentation](https://docs.google.com/presentation/d/1pzw6JLSIBj5k8ye3xF5oIUdy71K3VHiDtYc8nEB6a_E/edit?usp=sharing)
 #### Written Analysis & Conclusion
 [Anaylsis and Conclusion](https://docs.google.com/document/d/13ySdNbCijZ7swYCkeas8N4DKUjC9O3SeS8nrxR03eFY/edit?usp=sharing)
 
-
-### The purpose of this project is to perform a data analysis on the dataset "Music & Mental Health Survey Results".
-
-
-## Table of Contents
-
-### - [Introduction](#introduction)
-### - [Features](#features)
-### - [References](#references)
+## Project Purpose
+The purpose of this project is to perform a data analysis on the dataset "Music & Mental Health Survey Results".
 
 ## Introduction
-
-### - This repository contains analysis of a kaggle dataset that looks at the effects of music on mental health issues. The dataset contains various rows and columns that displays data on around 745 participants, but due to null values, only 616 participant's data is used. The data which this repo analyzed includes: age of participants, hours per day listened to music, favorite genres, mental health issues (anxiety, depression OCD, & insomnia), and music effects, rated with 'improve', 'no effect', or 'worsen'. 
+This repository contains analysis of a kaggle dataset that looks at the effects of music on mental health issues. The dataset contains various rows and columns that displays data on around 745 participants, but due to null values, only 616 participants' data is used. The data which this repo analyzed includes: 
+      - Participant age
+      - Hours of music listened to per day
+      - Favorite music genres
+      - Mental health issues (anxiety, depression, OCD, insomnia)
+      - Music’s effects on mental health (categorized as "improve," "no effect," or "worsen")
 
 ### This project focuses on analyzing the Music & Mental Health Survey Results dataset by asking and answering the following questions: 
 
