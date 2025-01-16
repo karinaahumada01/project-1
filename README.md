@@ -44,10 +44,10 @@ Question 5: Bar Plot and Scatter Plot
 ## Features
 ### Includes: 
 1. Resources Folder: 
-- mxmh_survey_results.csv: The main dataset used for analysis.
-- Screenshots of the graphs generated during the analysis (10 PNG files).
+   - mxmh_survey_results.csv: The main dataset used for analysis.
+   - Screenshots of the graphs generated during the analysis (10 PNG files).
 2. Main Analysis File
-- mxmh_main_analysis.ipynb: A Jupyter Notebook containing the analysis code, generated graphs, and detailed explanations for each visualization.
+   - mxmh_main_analysis.ipynb: A Jupyter Notebook containing the analysis code, generated graphs, and detailed explanations for each visualization.
 3. .gitignore
 4. README.md
 
@@ -68,7 +68,7 @@ Question 5: Bar Plot and Scatter Plot
 7. OpenAI. (2024, September). ChatGPT (Sep 14 version) [Large language model]. ChatGPT
 8. Rasgaitis, C. (2022, November 21). Music & Mental Health Survey Results. Kaggle
 9. Safarzadeh, L. (2022). GitHub - lalesafarzade/Best_seller_books: Collecting data from NYT and rainforest API, analyzing and making a simple app. GitHub
-- This resource was referenced to get an idea for the first few lines of code and how to import and clean the dataset.
+   - This resource was referenced to get an idea for the first few lines of code and how to import and clean the dataset.
 10. Shetty, R. (2023, October 4). Impact of Music on Mental Health. Kaggle
-- This resource was also referenced for the first few lines of code and how to import and clean the dataset.
+   - This resource was also referenced for the first few lines of code and how to import and clean the dataset.
 11. Su, Y. (2023, April). Music and Mental Health EDA. Kaggle
