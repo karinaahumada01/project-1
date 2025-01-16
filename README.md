@@ -19,12 +19,12 @@
 The purpose of this project is to perform a data analysis on the dataset "Music & Mental Health Survey Results".
 
 ## Introduction
-This repository contains analysis of a kaggle dataset that looks at the effects of music on mental health issues. The dataset contains various rows and columns that displays data on around 745 participants, but due to null values, only 616 participants' data is used. The data which this repo analyzed includes: 
-      - Participant age
-      - Hours of music listened to per day
-      - Favorite music genres
-      - Mental health issues (anxiety, depression, OCD, insomnia)
-      - Music’s effects on mental health (categorized as "improve," "no effect," or "worsen")
+This repository contains analysis of a kaggle dataset that looks at the effects of music on mental health issues. The dataset contains various rows and columns that displays data on around 745 participants, but due to null values, only 616 participants' data is used. The data which this repo analyzed includes:
+- Participant age
+- Hours of music listened to per day
+- Favorite music genres
+- Mental health issues (anxiety, depression, OCD, insomnia)
+- Music’s effects on mental health (categorized as "improve," "no effect," or "worsen")
 
 ### This project focuses on analyzing the Music & Mental Health Survey Results dataset by asking and answering the following questions: 
 
