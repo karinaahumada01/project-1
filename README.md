@@ -1,4 +1,4 @@
-# Project 1: The Effect of Music on  Mental Health 
+# Project 1: The Effect of Music on Mental Health 
 
 ## Table of Contents
 1. [Important Project Links](#important_project_links)
@@ -48,6 +48,8 @@ Question 5: Bar Plot and Scatter Plot
 - Screenshots of the graphs generated during the analysis (10 PNG files).
 2. Main Analysis File
 - mxmh_main_analysis.ipynb: A Jupyter Notebook containing the analysis code, generated graphs, and detailed explanations for each visualization.
+3. .gitignore
+4. README.md
 
 ## Contributers 
 - Angelica Guerrero
